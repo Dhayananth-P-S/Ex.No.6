@@ -1,12 +1,8 @@
 # Ex. No. 6 – Development of Python Code Compatible with Multiple AI Tools
 
-**NAME:** Dhayananth.P.S  
-**REGISTER NUMBER:** 212223040039  
+# NAME: Dhayananth.P.S  
+# REGISTER NUMBER: 212223040039  
 
----
-
-## Date:
-(Insert Date Here)
 
 ---
 
@@ -107,6 +103,7 @@ with open("results.json", "w") as f:
 
 print(f"Similarity Score: {similarity:.2f}")
 print("Comparison saved to results.json")
+```
 ---
 
 ## Conclusion
